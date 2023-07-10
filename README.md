@@ -1,4 +1,4 @@
-## Oie sou Jhuly, bem vinda(o) ao meu perfil 🌻!
+## Oie sou Jhuly, bem vinda(o) ao meu perfil 🌻
 Sou estudante de programação e amante da arte. No momento estou interresada em criar interfaces criativas e agradavéis, trabalhando principalmente no front-end e fazendo conexões com o back-end.
  
  <br>
